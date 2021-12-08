@@ -1,4 +1,4 @@
-package edu.neumont.ccolby.controller;
+package edu.neumont.ccolby;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
