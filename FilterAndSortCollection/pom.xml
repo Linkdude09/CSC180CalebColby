@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.neumont.ccolby</groupId>
-    <artifactId>Filter&SortCollection</artifactId>
+    <artifactId>FilterAndSortCollection</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
